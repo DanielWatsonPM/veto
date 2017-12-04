@@ -14,7 +14,7 @@
     "semantic-ui-modal-no-conflict" : "*",
     "semantic-ui-dimmer" : "*",
     "semantic-ui-transition" : "*",
-    "DanielWatsonPM/redactor-properties": "^1.0"
+    "pm-redactor-properties": "*"
   },
   "ignore": [
     "**/.*",
